@@ -2,4 +2,4 @@
 
 Basic clone of amazon using HTML and CSS
 
-[Link to the site](http://127.0.0.1:5501/amazonCloneWeb/index.html)
+[Link to the site](https://kotlathanuja.github.io/Basic_Amazon_Clone/)
